@@ -1,14 +1,14 @@
-import React from 'react'
-import GlobalStyle from '../styles/global'
-import SEO from './SEO'
-import 'typeface-cantata-one'
-import 'typeface-open-sans'
+import React from 'react';
+import GlobalStyle from '../styles/global';
+import SEO from './SEO';
+import 'typeface-cantata-one';
+import 'typeface-open-sans';
 
 const Layout = () => (
-  <>
-    <SEO />
-    <GlobalStyle />
-  </>
-)
+	<div>
+		<SEO />
+		<GlobalStyle />
+	</div>
+);
 
-export default Layout
+export default Layout;
