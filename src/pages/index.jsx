@@ -75,7 +75,7 @@ const Index = () => (
 						for craftmen and more.
 					</ProjectCard>
 					<ProjectCard
-						title="zzzzzz"
+						title="PayZat"
 						link="https://www.behance.net/gallery/43907099/Tomb-Raider"
 						bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
 					>
@@ -91,9 +91,9 @@ const Index = () => (
 				</ProjectsWrapper>
 			</Projects>
 			<About offset={3}>
-				<Title>About</Title>
+				<Title>About US</Title>
 				<AboutHero>
-					<Avatar src={avatar} alt="John Doe" />
+					<Avatar src={avatar} alt="Ebraheem AlKandery" />
 					<AboutSub>
 						The English language can not fully capture the depth and complexity of my thoughts. So I'm
 						incorporating Emoji into my speech to better express myself. Winky face.
