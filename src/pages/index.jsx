@@ -75,7 +75,7 @@ const Index = () => (
 						for craftmen and more.
 					</ProjectCard>
 					<ProjectCard
-						title="PayZat"
+						title="zzzzzz"
 						link="https://www.behance.net/gallery/43907099/Tomb-Raider"
 						bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
 					>
